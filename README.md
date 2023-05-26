@@ -3,7 +3,8 @@ Introduction
 
 **SISTEM INFORMASI AKUNTANSI BAZNAS**
 
-APlikasi 2 User Admin dan Masyarakat
+APlikasi 2 User Admin dan Masyarakat dengan PHP Natip dan MySQL..
+Untuk Database bisa Menghubungi email amriulinnuha1@gmail.com
 ![image.png](https://github.com/aufatech/siakuntansi_basnaz/blob/master/Untitled.png?raw=true)
 Menu ___
 
