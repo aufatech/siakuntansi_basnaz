@@ -1,8 +1,22 @@
 Introduction
 ============
 
-**AdminLTE** is a fully responsive administration template. Based on **[Bootstrap 4](https://getbootstrap.com)** framework.
-Highly customizable and easy to use. Fits many screen resolutions from small mobile devices to large desktops.
+**SISTEM INFORMASI AKUNTANSI BAZNAS**
+
+APlikasi 2 User Admin dan Masyarakat
+![image.png](https://github.com/aufatech/siakuntansi_basnaz/blob/master/baznas.png?raw=true)
+Menu ___
+Master Pengguna
+Master Akun
+Transaksi
+Saldo Awal
+Jurnal Umum
+Buku Besar
+Laporan -> Neraca
+Laporan -> Perubahan Dana
+Laporan -> Kelolaan Aser
+Laporan -> Arus Kas
+Pengaturan
 
 
-# siakuntansi_basnaz
+# siakuntansi_baznas
